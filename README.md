@@ -61,6 +61,20 @@ node ex03.js
 
 ---
 
+## Lista de exercícios 2
+
+1. Validação de Datas
+2. Jogo de Adivinhação  
+3. Palavras Únicas  
+4. Fatorial Recursivo  
+5. Debounce  
+6. Memoization  
+7. Mapeamento e Ordenação  
+8. Agrupamento por Propriedade  
+9. Conversão Entre Formatos   
+
+---
+
 ## Observações
 
 - Certifique-se de digitar entradas válidas conforme solicitado pelo programa (ex: números inteiros, decimais, etc.).  

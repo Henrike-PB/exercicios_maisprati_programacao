@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Este projeto contém uma série de exercícios básicos em JavaScript, focados em estruturas de controle, loops e manipulação de dados, utilizando o pacote `prompt-sync` para entrada de dados via console.",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrike-PB/exercicios_maisprati_programacao.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Henrike-PB/exercicios_maisprati_programacao/issues"
+  },
+  "homepage": "https://github.com/Henrike-PB/exercicios_maisprati_programacao#readme"
 }
